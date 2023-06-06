@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "807888040714",
+    "project_id": "flutter-encrypt",
+    "storage_bucket": "flutter-encrypt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807888040714:android:19bca632514014fcc740f3",
+        "android_client_info": {
+          "package_name": "com.example.aes_flutter_encrypt_decrypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807888040714-mvgc3r4p6h4i6l019g19f26ntssna9ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkxVPYJ3oUWbOB_Zrn0Oswpi4TcOA7b38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807888040714-mvgc3r4p6h4i6l019g19f26ntssna9ja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807888040714-0s928lr4ib13e9gmbo6so658kkc2p1va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.encryptData"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807888040714:android:8de4f18d4c90ddf5c740f3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_encrypt_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807888040714-mvgc3r4p6h4i6l019g19f26ntssna9ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkxVPYJ3oUWbOB_Zrn0Oswpi4TcOA7b38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807888040714-mvgc3r4p6h4i6l019g19f26ntssna9ja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807888040714-0s928lr4ib13e9gmbo6so658kkc2p1va.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.encryptData"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
