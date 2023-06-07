@@ -63,8 +63,8 @@ class LoginView extends StatefulWidget {
                           Container(
                             decoration: const BoxDecoration(
                                 image: DecorationImage(
-                                    image: AssetImage(
-                                        'assets/images/clock.png'))),
+                                    image:
+                                        AssetImage('assets/images/clock.png'))),
                           )),
                     ),
                     Positioned(
@@ -74,7 +74,7 @@ class LoginView extends StatefulWidget {
                             margin: const EdgeInsets.only(top: 50),
                             child: const Center(
                               child: Text(
-                                "Login",
+                                "Cryption Image",
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 40,
@@ -121,8 +121,8 @@ class LoginView extends StatefulWidget {
                                     decoration: InputDecoration(
                                         border: InputBorder.none,
                                         hintText: "Email or Phone number",
-                                        hintStyle: TextStyle(
-                                            color: Colors.grey[400])),
+                                        hintStyle:
+                                            TextStyle(color: Colors.grey[400])),
                                     onChanged: (value) {},
                                   ),
                                 ),
@@ -136,8 +136,8 @@ class LoginView extends StatefulWidget {
                                     decoration: InputDecoration(
                                         border: InputBorder.none,
                                         hintText: "Password",
-                                        hintStyle: TextStyle(
-                                            color: Colors.grey[400])),
+                                        hintStyle:
+                                            TextStyle(color: Colors.grey[400])),
                                     onChanged: (value) {},
                                   ),
                                 )
@@ -230,16 +230,6 @@ class LoginView extends StatefulWidget {
                               ),
                             ),
                           ),
-                        )),
-                    const SizedBox(
-                      height: 70,
-                    ),
-                    const FadeAnimation(
-                        1.5,
-                        Text(
-                          "Forgot Password?",
-                          style: TextStyle(
-                              color: Color.fromRGBO(143, 148, 251, 1)),
                         )),
                   ],
                 ),

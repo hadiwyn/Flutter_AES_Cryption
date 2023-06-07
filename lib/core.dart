@@ -9,7 +9,6 @@ export 'package:aes_flutter_encrypt_decrypt/module/admin/dashboard_admin/control
 export 'package:aes_flutter_encrypt_decrypt/module/admin/dashboard_admin/view/dashboard_admin_view.dart';
 export 'package:aes_flutter_encrypt_decrypt/module/admin/dashboard_admin/view/widgets/content1.dart';
 export 'package:aes_flutter_encrypt_decrypt/module/users/dashboard_user/controller/dashboard_user_controller.dart';
-export 'package:aes_flutter_encrypt_decrypt/module/users/dashboard_user/view/dashboard_user_view.dart';
 export 'package:aes_flutter_encrypt_decrypt/module/models/image_decrypt_model.dart';
 export 'package:aes_flutter_encrypt_decrypt/module/models/image_encrypt_model.dart';
 export 'package:aes_flutter_encrypt_decrypt/module/services/decrypt.dart';
