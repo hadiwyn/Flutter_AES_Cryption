@@ -196,11 +196,11 @@ Widget content() {
                                         await firebase_storage
                                             .FirebaseStorage.instance
                                             .ref()
-                                            .child('images_encrypt/$fileName')
+                                            .child('images_ori/$fileName')
                                             .delete();
 
                                         await FirebaseFirestore.instance
-                                            .collection("image_encrypt")
+                                            .collection("image_ori")
                                             .doc(ID)
                                             .delete();
 
